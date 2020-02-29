@@ -56,7 +56,7 @@ collection.delete_many({})
 
 # Configure API key authorization: Apikey
 configuration = cloudmersive_ocr_api_client.Configuration()
-configuration.api_key['Apikey'] = '64c948e0-85d7-4536-80ca-0633c39e34b8'
+configuration.api_key['Apikey'] = '0536347f-9018-4661-8bc9-87b7202b8515'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # configuration.api_key_prefix['Apikey'] = 'Bearer'
 
